@@ -1,6 +1,6 @@
 # Blocking.jl
 
-Estimate the error of the mean for correlated data `x`, using the method described in “Error estimates on averages of correlated data”, H. Flyvbjerg, H.G. Petersen, J. Chem. Phys. 91, 461 (1989).
+Estimate the error of the mean for correlated data, using the method described in “Error estimates on averages of correlated data”, H. Flyvbjerg, H.G. Petersen, J. Chem. Phys. 91, 461 (1989).
 
 ## Example
 
